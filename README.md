@@ -3,7 +3,7 @@
 </p>
  
 
-### Connect with me 
+### Connect with me
 <p align="center">
   <a href="https://instagram.com/ryzxell_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/62895324429899"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
@@ -27,13 +27,15 @@
 ### My Bio
 ```js
 
+function getUserInfo() {
 var ry = `
-
 Name               : Harry
 Age                : 17
 Gender             : Male
-From               : indonesian 🇮🇩
-Currently learning : Js, html
-`
-return ry
+From               : Indonesian 🇮🇩
+Currently learning : JS, HTML `;
+return ry;
+}
+
+console.log(getUserInfo());
 ```
