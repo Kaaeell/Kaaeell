@@ -42,7 +42,7 @@ Name               : Harry
 Age                : 17
 Gender             : Male
 From               : Indonesian 🇮🇩
-Currently learning : JS, CSS, HTML
+Currently learning : JS, Next.js
   `;
 }
 
