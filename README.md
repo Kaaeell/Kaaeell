@@ -7,7 +7,7 @@
 ### Connect with me
 
 <p align="center">
-  <a href="https://instagram.com/">
+  <a href="https://instagram.com/genshinimpact/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://wa.me/62895324429899">
