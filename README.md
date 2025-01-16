@@ -49,7 +49,7 @@
 ```js
 function getUserInfo() {
   return `
-Name               : Harry
+Name               : Rey
 Age                : 17
 Gender             : Male
 From               : Indonesian 🇮🇩
