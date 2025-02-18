@@ -49,11 +49,11 @@
 ```js
 function getUserInfo() {
   return `
-Name               : Rey
-Age                : 17
+Name               : Harry
+Age                : 18
 Gender             : Male
 From               : Indonesian 🇮🇩
-Currently learning : JS, Next.js
+Currently learning : JS, Next.js, NodeJs
   `;
 }
 
