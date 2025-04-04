@@ -40,8 +40,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shouya28&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shouya28&theme=monokai" alt="GitHub Profile Summary"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaaeell&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaaeell&theme=monokai" alt="GitHub Profile Summary"/>
 </p>
 
 ### My Bio
